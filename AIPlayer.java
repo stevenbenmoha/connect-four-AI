@@ -1,8 +1,8 @@
 
 public class AIPlayer implements Player {
-//do not change the line above	
 
-    //Define your fields here
+
+   
     private int columns;
     private int rows;
     private int player_ID;
