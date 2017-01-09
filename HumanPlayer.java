@@ -1,6 +1,6 @@
 
 public class HumanPlayer implements Player {
-//do not change the line above	
+
 
     private int columns;
     private int rows;
@@ -62,7 +62,6 @@ public class HumanPlayer implements Player {
     }
             
 
-    //get this player's id
     public int getPlayerID() {
 
         return player_ID;
